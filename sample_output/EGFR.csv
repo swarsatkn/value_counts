@@ -1,0 +1,36 @@
+EGFR,Values
+not done,2066
+0,908
+del19,299
+L858R,162
+del 19,26
+"del19, T790M",25
+ins20,25
+G719X,15
+L861Q,12
+"L858R, T790M",12
+S768I,8
+"G719X, S768I",4
+exon 18,4
+"L858R, S768I",4
+"G719X, L861Q",3
+(A750_K754del,2
+(E709_T710delinsD,2
+"H835L, L833V",2
+I835S,2
+p.(A767_S768insSVD),2
+p.(E709_T710delinsD),2
+p.(P772_H773insHV),2
+A763_Y764insFQEA,2
+1,2
+c.2321_2322insCCACGT,1
+"G719X, T790M",1
+L782R,1
+T790M,1
+amplification,1
+ND,1
+"del19, T790M   ",1
+.(L747_P753delinsS),1
+ins 20,1
+(E746_A750del),1
+Null values,56
