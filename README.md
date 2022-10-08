@@ -7,4 +7,4 @@ python value_counts_sa.py --file_path <path to CSV/Excel file> --output_folder <
 
 Example:
 
-python value_counts_sa.py --file_path '/home/user/Swarsat_KN/sample.xlsx' --output_folder '/home/user/Swarsat_KN/value_counts/sample_output'
+> python value_counts_sa.py --file_path '/home/user/Swarsat_KN/sample.xlsx' --output_folder '/home/user/Swarsat_KN/value_counts/sample_output'
